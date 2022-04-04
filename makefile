@@ -52,8 +52,7 @@ ex26:
 ex27:
 	gcc ex27.c -o ex27
 
-ex28:makefile:104: *** missing separator.  Stop.
-
+ex28:
 	gcc ex28.c -o ex28
 
 ex29:
