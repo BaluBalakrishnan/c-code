@@ -43,9 +43,6 @@ ex19:
 ex20:
 	gcc ex20.c -o ex20
 
-ex25:
-	gcc ex25.c -o ex25
-
 ex26:
 	gcc ex26.c -o ex26
 
